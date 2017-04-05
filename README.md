@@ -1,6 +1,6 @@
 # HELLO-WORLD
 
-git project
+my git project
 
 hii there... welcome to git hub..!
 
