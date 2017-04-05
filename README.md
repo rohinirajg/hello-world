@@ -1,6 +1,7 @@
-# hello-world
+# HELLO-WORLD
+
 git project
 
-
 hii there... welcome to git hub..!
-# have a nice day ahead
+
+# Have A Nice Day Ahead
